@@ -62,18 +62,14 @@
 ## 📸 效果展示
 
 ### 默认效果
-```
-页面加载时间: 0.123 s | 内存占用: 2.5 MB | 服务器: Windows / PHP 7.4 | Typecho: 1.0 | LoadTime: 1.0.0 | Cyruss-X
-```
+![默认效果](https://github.com/Cyruss-X/picx-images-hosting/raw/master/1.8vn3h9nkia.webp)
 
 ### 使用图标效果
-```
-⏰ 页面加载时间: 0.123 s | 💾 内存占用: 2.5 MB | 🖥️ 服务器: Windows / PHP 7.4 | 📦 Typecho: 1.0 | 🔌 LoadTime: 1.0.0 | © Cyruss-X
-```
+![使用图标效果](https://github.com/Cyruss-X/picx-images-hosting/raw/master/1111.3k86wk1tjw.webp)
 
 ## 📝 更新日志
 
-### v1.0.0 (2024-03-21)
+### v1.0.0 (2025-04-07)
 - 🎉 首次发布
 - ✨ 支持显示页面加载时间
 - 🎨 支持自定义显示位置和方式
@@ -91,7 +87,8 @@
 
 - 作者：Cyruss-X
 - 主页：https://github.com/Cyruss-X
-- 邮箱：cyruss-x@outlook.com
+- 博客：https://cyruss.top
+- 邮箱：cyruss.top@gmail.com
 
 ## 🤝 贡献指南
 
@@ -99,4 +96,4 @@
 
 ## 📝 许可证
 
-[MIT](LICENSE) © 2024 Cyruss-X 
+[MIT](LICENSE) © 2025 Cyruss-X 
